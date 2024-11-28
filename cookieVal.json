@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1732783170062,
+        "name": "Learning Svelte",
+        "startDate": "2024-11-28",
+        "deadline": "2024-12-03",
+        "deadlineHour": "16:00",
+        "todos": [
+            "Event Management App",
+            "Calculator App",
+            "Finish Course about 18h+ to go"
+        ],
+        "dones": [
+            "Project Tracker app"
+        ]
+    },
+    {
+        "id": 1732783373502,
+        "name": "Inei Streams Graphics",
+        "startDate": "2024-11-27",
+        "deadline": "2024-12-30",
+        "deadlineHour": "00:00",
+        "todos": [
+            "Make Cute starting soon screen from ai art into my art!",
+            "Make a good overlay",
+            "More Inei character emojis",
+            "Inei's profile picture into my art",
+            "Get to Hololive - 01.2025 - January 2025"
+        ],
+        "dones": [
+            "Make Avatar"
+        ]
+    }
+]
+
