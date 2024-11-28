@@ -169,6 +169,7 @@
           {/each}
         </ul>
         <ul class="done-list">
+        <h3 style="color:palevioletred; font-size:160%;">Done</h3>
           {#each project.dones as done}
             <li>{done}</li>
           {/each}
@@ -238,6 +239,7 @@
     #project-list {
       max-width: 800px;
       margin: 20px auto;
+      display: inline-flex;
     }
   
     .project-card {
